@@ -24,6 +24,7 @@ const Donation = () => {
                 {
                     Isshow ? newcard.map(item => <DonationCard key={item.id} item={item}></DonationCard>)
                         : newcard.slice(0, 4).map(item => <DonationCard key={item.id} item={item}></DonationCard>)
+
                 }
             </div>
             <div className="text-center my-3">
@@ -31,7 +32,7 @@ const Donation = () => {
                     See All
                 </Link>
             </div>
-        </div>
+        </div >
 
     );
 };

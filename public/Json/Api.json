@@ -1,0 +1,147 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/ZGM65sx/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "#0052FF33",
+      "card_bg": "#0052FF26",
+      "text_color": "#0052FF",
+      "button_bg": "#0052FF",
+      "description": "High-quality electronic gadget with advanced.Education is essential for personal growth and empowerment. Adequate nutrition and clothing are fundamental to maintaining good health and well-being. These three factors are interconnected, contributing to a person's overall quality of life.",
+      "price": 2999.99
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/bXPwmrb/Education.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_color": "#FF444A",
+      "button_bg": "#FF444A",
+      "description": "Fashionable clothing item for all occasions.Education is essential for personal growth and empowerment. Adequate nutrition and clothing are fundamental to maintaining good health and well-being. These three factors are interconnected, contributing to a person's overall quality of life.",
+      "price": 2499.99
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/gyt7Tk3/Rectangle-4287.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#79C23F33",
+      "card_bg": "#79C23F26",
+      "text_color": "#79C23F",
+      "button_bg": "#79C23F",
+      "description": "Elegant home decor piece to enhance your living space.Education is essential for personal growth and empowerment. Adequate nutrition and clothing are fundamental to maintaining good health and well-being. These three factors are interconnected, contributing to a person's overall quality of life.",
+      "price": 3299.99
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/rGwZzp0/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Books",
+      "category_bg": "#F8714733",
+      "card_bg": "#F8714726",
+      "text_color": "#F87147",
+      "button_bg": "#F87147",
+      "description": "Best-selling novel by a renowned author Education is essential for personal growth and empowerment. Adequate nutrition and clothing are fundamental to maintaining good health and well-being. These three factors are interconnected, contributing to a person's overall quality of life..",
+      "price": 2699.99
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/rGwZzp0/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Books",
+        "category_bg": "#F8714733",
+        "card_bg": "#F8714726",
+        "text_color": "#F87147",
+        "button_bg": "#F87147",
+        "description": "Best-selling novel by a renowned author.Education is essential for personal growth and empowerment. Adequate nutrition and clothing are fundamental to maintaining good health and well-being. These three factors are interconnected, contributing to a person's overall quality of life.",
+        "price": 2699.99
+      },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/gyt7Tk3/Rectangle-4287.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#79C23F33",
+        "card_bg": "#79C23F26",
+        "text_color": "#79C23F",
+        "button_bg": "#79C23F",
+        "description": "Elegant home decor piece to enhance your living space.Education is essential for personal growth and empowerment. Adequate nutrition and clothing are fundamental to maintaining good health and well-being. These three factors are interconnected, contributing to a person's overall quality of life.",
+        "price": 3299.99
+      },
+    {
+        "id": 7,
+        "picture": "https://i.ibb.co/bXPwmrb/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "#FF444A33",
+        "card_bg": "#FF444A26",
+        "text_color": "#FF444A",
+        "button_bg": "#FF444A",
+        "description": "Fashionable clothing item for all occasions.Education is essential for personal growth and empowerment. Adequate nutrition and clothing are fundamental to maintaining good health and well-being. These three factors are interconnected, contributing to a person's overall quality of life.",
+        "price": 2499.99
+      },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/ZGM65sx/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "#0052FF33",
+      "card_bg": "#0052FF26",
+      "text_color": "#0052FF",
+      "button_bg": "#0052FF",
+      "description": "Stylish and comfortable furniture piece for your home.Education is essential for personal growth and empowerment. Adequate nutrition and clothing are fundamental to maintaining good health and well-being. These three factors are interconnected, contributing to a person's overall quality of life.",
+      "price": 3499.99
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/ZGM65sx/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "#0052FF33",
+      "card_bg": "#0052FF26",
+      "text_color": "#0052FF",
+      "button_bg": "#0052FF",
+      "description": "Kitchen appliance to make cooking easier and more enjoyable.Education is essential for personal growth and empowerment. Adequate nutrition and clothing are fundamental to maintaining good health and well-being. These three factors are interconnected, contributing to a person's overall quality of life.",
+      "price": 2799.99
+    },
+    {
+        "id": 10,
+        "picture": "https://i.ibb.co/bXPwmrb/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "#FF444A33",
+        "card_bg": "#FF444A26",
+        "text_color": "#FF444A",
+        "button_bg": "#FF444A",
+        "description": "Fashionable clothing item for all occasions.Education is essential for personal growth and empowerment. Adequate nutrition and clothing are fundamental to maintaining good health and well-being. These three factors are interconnected, contributing to a person's overall quality of life.",
+        "price": 2499.99
+      },
+      {
+        "id": 11,
+        "picture": "https://i.ibb.co/gyt7Tk3/Rectangle-4287.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#79C23F33",
+        "card_bg": "#79C23F26",
+        "text_color": "#79C23F",
+        "button_bg": "#79C23F",
+        "description": "Elegant home decor piece to enhance your living space.Education is essential for personal growth and empowerment. Adequate nutrition and clothing are fundamental to maintaining good health and well-being. These three factors are interconnected, contributing to a person's overall quality of life.",
+        "price": 3299.99
+      },
+      {
+        "id": 12,
+        "picture": "https://i.ibb.co/rGwZzp0/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Books",
+        "category_bg": "#F8714733",
+        "card_bg": "#F8714726",
+        "text_color": "#F87147",
+        "button_bg": "#F87147",
+        "description": "Best-selling novel by a renowned author.Education is essential for personal growth and empowerment. Adequate nutrition and clothing are fundamental to maintaining good health and well-being. These three factors are interconnected, contributing to a person's overall quality of life.",
+        "price": 2699.99
+      }
+  ]
+  

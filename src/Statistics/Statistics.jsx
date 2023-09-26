@@ -1,11 +1,24 @@
+import { useEffect, useState } from 'react';
 import { PieChart, Pie, Sector, Cell, } from 'recharts';
 
 const Statistics = () => {
+    const [pie, setpie] = useState([])
+    useEffect(() => {
+        const conGet = JSON.parse(localStorage.getItem("donate"));
+        setpie(conGet)
+    }, [])
+
+
+    const donate = (pie.length * 100) / 12;
+
+    const total = (100 - donate);
+
+
 
 
     const data01 = [
-        { name: 'Group A', value: 12 },
-        { name: 'Group B', value: 4 },
+        { name: 'Group A', value: total },
+        { name: 'Group B', value: donate },
 
     ];
     const COLORS = ['#FF444A', '#0088FE'];
@@ -20,7 +33,7 @@ const Statistics = () => {
                         labelLine={true}
                         label
                         outerRadius={80}
-                        fill="#8884d8"
+                        fill="#00C49F"
                         dataKey="value"
                     >
                         {data01.map((entry, index) => (

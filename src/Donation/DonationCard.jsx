@@ -17,6 +17,7 @@ const DonationCard = ({ item }) => {
                     <p style={{ color: `${item.button_bg}` }} className="py-2">{item.price}</p>
                     <Link to="/donation" style={{ background: `${item.button_bg}` }} className="text-white px-3 py-2 rounded">View Details</Link>
                 </div>
+
             </div>
         </div >
     );

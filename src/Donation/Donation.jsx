@@ -28,9 +28,13 @@ const Donation = () => {
                 }
             </div>
             <div className="text-center my-3">
-                <Link onClick={() => setIshow(!Isshow)} className="text-white bg-[#009444] px-3 py-2 rounded-xl ">
-                    See All
-                </Link>
+
+                {
+                    newcard.length > 4 &&
+                    (Isshow ? '' : <Link onClick={() => setIshow(!Isshow)} className="text-white bg-[#009444] px-3 py-2 rounded-xl ">
+                        See All </Link>)
+                }
+
             </div>
         </div >
 

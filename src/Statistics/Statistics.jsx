@@ -9,7 +9,7 @@ const Statistics = () => {
     }, [])
 
 
-    const donate = (pie.length * 100) / 12;
+    const donate = ((pie.length * 100) / 12);
 
     const total = (100 - donate);
 
@@ -17,8 +17,8 @@ const Statistics = () => {
 
 
     const data01 = [
-        { name: 'Group A', value: total },
-        { name: 'Group B', value: donate },
+        { name: '%', value: total },
+        { name: '%', value: donate },
 
     ];
     const COLORS = ['#FF444A', '#0088FE'];
@@ -41,10 +41,10 @@ const Statistics = () => {
                         ))}
                     </Pie>
                 </PieChart>
-                <div className='flex gap-5'>
+                <div className='md:flex gap-5 ml-20'>
                     <div className='flex gap-2 items-center'>
                         <p className='text-xl text-[#0B0B0B]'>Your Donation</p>
-                        <div className='h-2 w-20 bg-[#00C49F] mt-1 rounded-sm'>
+                        <div className='h-2 w-20 bg-[#0088FE] mt-1 rounded-sm'>
                         </div>
                     </div>
                     <div className='flex gap-2 items-center '>

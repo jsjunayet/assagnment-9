@@ -43,9 +43,10 @@ const SingleCard = () => {
                 <div className="">
                     <img src={show.picture} alt="" className="w-full" />
                 </div>
+                <div className="absolute bottom-36  h-36 w-full bg-[#BBB080] opacity-60">
+                </div>
                 <div className="h-36 relative  bottom-36 left-0">
-                    {/* <div className="absolute  h-full w-full bg-[#BBB080] opacity-0">
-                    </div> */}
+
                     <Link>
                         <button onClick={handle} style={{ background: `${show.button_bg}` }} className="text-white px-6 py-4 rounded ml-10 mt-10 z-10">Donate ${show.price}</button>
                     </Link>

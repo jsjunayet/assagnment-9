@@ -1,8 +1,6 @@
-# React + Vite
+## Add at least 3 Project features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- With this project we can dynamically show each task and click on a card to show the single card in a dynamic router.
+- A card of dynamic router will show the donation prize of that card, there will be a button, even if we click on that donation button, it will take us to the donation navigation and the card will be added there.
+- That pie chart will be like that I will work dynamically on the total donation and how many donation navigation I have added.

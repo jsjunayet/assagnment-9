@@ -43,7 +43,7 @@ const SingleCard = () => {
                 <div className="">
                     <img src={show.picture} alt="" className="w-full" />
                 </div>
-                <div className="absolute bottom-36  h-36 w-full bg-[#BBB080] opacity-60">
+                <div className="absolute bottom-36   h-36 w-full bg-[#BBB080] opacity-80">
                 </div>
                 <div className="h-36 relative  bottom-36 left-0">
 
@@ -52,7 +52,7 @@ const SingleCard = () => {
                     </Link>
                 </div>
 
-                <div className="mb-30 absolute bottom-5">
+                <div className="md:mb-30  absolute md:bottom-5 -bottom-20">
                     <p className="font-bold text-4xl py-3">{show.title}</p>
                     <p>{show.description}</p>
                 </div>

@@ -4,7 +4,7 @@ import { PieChart, Pie, Sector, Cell, } from 'recharts';
 const Statistics = () => {
     const [pie, setpie] = useState([])
     useEffect(() => {
-        const conGet = JSON.parse(localStorage.getItem("donate"));
+        const conGet = JSON.parse(localStorage.getItem("donate") || "[]");
         setpie(conGet)
     }, [])
 
